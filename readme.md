@@ -1,6 +1,5 @@
 # c9 collaborative Docker container
-this project aim to provide a collaborative instance runing in a docker container ready to deploy as a single container or in a composer file
-The image is based on official node:7 on debian and compiled on build
+This project aims to provide a collaborative instance running in a Docker container ready to deploy as a single container or in a composer file. The image is based on official Node:7 on Debian and compiled on build.
 
 
 
